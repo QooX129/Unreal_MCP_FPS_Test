@@ -1,0 +1,19 @@
+{
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "unreal-mcp-token",
+      "description": "Unreal MCP capability token (Saved/MCP/capability-token)",
+      "password": true
+    }
+  ],
+  "servers": {
+    "unreal-engine": {
+      "type": "http",
+      "url": "http://127.0.0.1:3000/mcp",
+      "headers": {
+        "X-MCP-Capability-Token": "cc0d063fd54b208c680dd440f88b5907f93d27b883e2e5266852f5ffa64abc45"
+      }
+    }
+  }
+}

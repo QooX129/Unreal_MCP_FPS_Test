@@ -1,0 +1,1234 @@
+[
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\McpDynamicToolManager.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\McpJsonRpc.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\McpNativeTransport.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\McpSchemaBuilder.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\McpToolRegistry.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_AnimationPhysics.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_BuildEnvironment.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ControlActor.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ControlEditor.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_Inspect.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageAI.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageAsset.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageAudio.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageBehaviorTree.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageBlueprint.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageCombat.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageEffect.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageGAS.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageGameFramework.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageGeometry.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageInput.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageInteraction.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageInventory.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageLevel.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageLevelStructure.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageLighting.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageMaterialAuthoring.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageNavigation.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageNetworking.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManagePCG.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManagePerformance.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManagePipeline.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageSequence.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageSessions.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageSkeleton.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageSplines.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageTexture.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageTools.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageVolumes.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_ManageWidgetAuthoring.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\MCP\\Tools\\McpTool_SystemControl.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridgeGlobals.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridgeModule.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridgeSettings.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridgeSubsystem.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_AIHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_AnimationAuthoringHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_AnimationHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_AssetQueryHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_AssetWorkflowHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_AudioAuthoringHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_AudioHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_BehaviorTreeHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_BehaviorTreeSerializers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_BlueprintCreationHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_BlueprintGraphHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_BlueprintHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_BlueprintHandlers_List.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_CharacterHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_CombatHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_ConsoleCommandHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_ControlHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_DebugHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_EditorFunctionHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_EffectHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_EnvironmentHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_FoliageHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_GASHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_GameFrameworkHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_GeometryHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_InputHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_InsightsHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_InteractionHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_InventoryHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_LandscapeHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_LevelHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_LevelStructureHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_LightingHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_LogHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_MaterialAuthoringHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_MaterialGraphHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_MiscHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_NavigationHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_NetworkingHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_NiagaraAuthoringHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_NiagaraGraphHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_NiagaraHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_PCGHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_PerformanceHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_PipelineHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_ProcessRequest.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_PropertyHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_RenderHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_SCSHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_SequenceHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_SequencerHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_SessionsHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_SkeletonHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_SplineHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_SystemControlHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_TestHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_TextureHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_UiHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_VolumeHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_WidgetAuthoringHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpAutomationBridge_WorldPartitionHandlers.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpBridgeWebSocket.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpConnectionManager.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpHandlerUtils.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\McpPropertyReflection.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Plugins\\McpAutomationBridge\\Source\\McpAutomationBridge\\Private\\UI\\SMcpStatusBarWidget.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\McpAutomationBridge.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\MCP_Test.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\MCP_TestCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\MCP_TestGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\MCP_TestPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\AI\\CombatAIController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\AI\\CombatEnemy.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\AI\\CombatEnemySpawner.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\AI\\CombatStateTreeUtility.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\AI\\EnvQueryContext_Danger.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\AI\\EnvQueryContext_Player.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\Animation\\AnimNotify_CheckChargedAttack.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\Animation\\AnimNotify_CheckCombo.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\Animation\\AnimNotify_DoAttackTrace.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\CombatCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\CombatGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\CombatPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\Gameplay\\CombatActivationVolume.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\Gameplay\\CombatCheckpointVolume.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\Gameplay\\CombatDamageableBox.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\Gameplay\\CombatDummy.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\Gameplay\\CombatLavaFloor.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\Interfaces\\CombatActivatable.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\Interfaces\\CombatAttacker.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\Interfaces\\CombatDamageable.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Combat\\UI\\CombatLifeBar.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Platforming\\Animation\\AnimNotify_EndDash.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Platforming\\PlatformingCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Platforming\\PlatformingGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_Platforming\\PlatformingPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_SideScrolling\\AI\\SideScrollingAIController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_SideScrolling\\AI\\SideScrollingNPC.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_SideScrolling\\AI\\SideScrollingStateTreeUtility.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_SideScrolling\\Gameplay\\SideScrollingJumpPad.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_SideScrolling\\Gameplay\\SideScrollingMovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_SideScrolling\\Gameplay\\SideScrollingPickup.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_SideScrolling\\Gameplay\\SideScrollingSoftPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_SideScrolling\\Interfaces\\SideScrollingInteractable.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_SideScrolling\\SideScrollingCameraManager.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_SideScrolling\\SideScrollingCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_SideScrolling\\SideScrollingGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_SideScrolling\\SideScrollingPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\Source\\MCP_Test\\Variant_SideScrolling\\UI\\SideScrollingUI.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\NYT\\Desktop\\Unreal\\MCP_Test\\.vscode\\compileCommands_Default\\MCP_Test.0.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Source"
+	}
+]
